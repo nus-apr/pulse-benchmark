@@ -2,7 +2,7 @@
   {
     "id": 1,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-1",
     "source": {
       "src-file": "apps/crl2p7.c",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-2",
     "source": {
       "src-file": "crypto/x509/x509_vpm.c",
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-3",
     "source": {
       "src-file": "apps/pkcs12.c",
@@ -65,7 +65,7 @@
   {
     "id": 4,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-4",
     "source": {
       "src-file": "apps/cms.c",
@@ -86,7 +86,7 @@
   {
     "id": 5,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-5",
     "source": {
       "src-file": "apps/cms.c",
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-6",
     "source": {
       "src-file": "crypto/dh/dh_check.c",
@@ -128,7 +128,7 @@
   {
     "id": 7,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-1",
     "source": {
       "src-file": "crypto/asn1/bio_asn1.c",
@@ -149,7 +149,7 @@
   {
     "id": 8,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-2",
     "source": {
       "src-file": "crypto/ocsp/ocsp_ht.c",
@@ -170,7 +170,7 @@
   {
     "id": 9,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-7",
     "source": {
       "src-file": "crypto/ocsp/ocsp_ht.c",
@@ -191,7 +191,7 @@
   {
     "id": 10,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-3",
     "source": {
       "src-file": "crypto/ec/ec2_mult.c",
@@ -212,7 +212,7 @@
   {
     "id": 11,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-8",
     "source": {
       "src-file": "crypto/mem.c",
@@ -233,7 +233,7 @@
   {
     "id": 12,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-4",
     "source": {
       "src-file": "crypto/bio/bio_lib.c",
@@ -254,7 +254,7 @@
   {
     "id": 13,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-5",
     "source": {
       "src-file": "crypto/asn1/asn_mime.c",
@@ -275,7 +275,7 @@
   {
     "id": 14,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-6",
     "source": {
       "src-file": "crypto/asn1/asn_mime.c",
@@ -296,7 +296,7 @@
   {
     "id": 15,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-9",
     "source": {
       "src-file": "crypto/bn/bntest.c",
@@ -317,7 +317,7 @@
   {
     "id": 16,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-10",
     "source": {
       "src-file": "ssl/d1_both.c",
@@ -338,7 +338,7 @@
   {
     "id": 17,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-11",
     "source": {
       "src-file": "crypto/bn/bntest.c",
@@ -359,7 +359,7 @@
   {
     "id": 18,
     "subject": "openssl-1",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-7",
     "source": {
       "src-file": "engines/ccgost/gost_pmeth.c",
@@ -380,7 +380,7 @@
   {
     "id": 19,
     "subject": "openssl-1",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-12",
     "source": {
       "src-file": "crypto/bn/bntest.c",
@@ -401,7 +401,7 @@
   {
     "id": 20,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-8",
     "source": {
       "src-file": "crypto/ui/ui_lib.c",
@@ -422,7 +422,7 @@
   {
     "id": 21,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-9",
     "source": {
       "src-file": "test/conf_include_test.c",
@@ -443,7 +443,7 @@
   {
     "id": 22,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-13",
     "source": {
       "src-file": "providers/implementations/macs/cmac_prov.c",
@@ -464,7 +464,7 @@
   {
     "id": 23,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-14",
     "source": {
       "src-file": "crypto/x509/x_pubkey.c",
@@ -485,7 +485,7 @@
   {
     "id": 24,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-15",
     "source": {
       "src-file": "test/params_test.c",
@@ -506,7 +506,7 @@
   {
     "id": 25,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-10",
     "source": {
       "src-file": "crypto/x509/x_x509a.c",
@@ -527,7 +527,7 @@
   {
     "id": 26,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-16",
     "source": {
       "src-file": "test/hmactest.c",
@@ -548,7 +548,7 @@
   {
     "id": 27,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-17",
     "source": {
       "src-file": "crypto/x509/x_pubkey.c",
@@ -569,7 +569,7 @@
   {
     "id": 28,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-11",
     "source": {
       "src-file": "test/helpers/handshake.c",
@@ -590,7 +590,7 @@
   {
     "id": 29,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-18",
     "source": {
       "src-file": "apps/lib/s_cb.c",
@@ -611,7 +611,7 @@
   {
     "id": 30,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-12",
     "source": {
       "src-file": "test/sslapitest.c",
@@ -632,7 +632,7 @@
   {
     "id": 31,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-19",
     "source": {
       "src-file": "test/evp_test.c",
@@ -653,7 +653,7 @@
   {
     "id": 32,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-13",
     "source": {
       "src-file": "apps/s_server.c",
@@ -674,7 +674,7 @@
   {
     "id": 33,
     "subject": "openssl-3",
-    "bug-type": "Memory Leak",
+    "bug_type": "Memory Leak",
     "bug_id": "leak-14",
     "source": {
       "src-file": "apps/s_server.c",
@@ -695,7 +695,7 @@
   {
     "id": 34,
     "subject": "openssl-3",
-    "bug-type": "Null Pointer Dereference",
+    "bug_type": "Null Pointer Dereference",
     "bug_id": "null-ptr-20",
     "source": {
       "src-file": "apps/s_server.c",
